@@ -1,3 +1,6 @@
+# This code is taken from RawNet: 
+# https://github.com/Jungjee/RawNet/blob/master/python/RawNet2/Pre-trained_model/model_RawNet2_original_code.py
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
