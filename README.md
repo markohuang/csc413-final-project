@@ -7,6 +7,7 @@ This repository is for the Final Project of CSC413: Neural Networks and Deep Lea
 
 ### Model Architecture
 The pre-trained model ([Rawnet](https://github.com/Jungjee/RawNet) and [ConvNet](https://github.com/pushnyakov/WWWMusicalGenreRecognitionChallenge)) architecture are shown below.
+
 ![image](https://user-images.githubusercontent.com/29292822/115159862-45e87200-a063-11eb-99e2-463aa055e612.png =800x)
 
 ### Code
