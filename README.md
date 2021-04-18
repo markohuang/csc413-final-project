@@ -3,6 +3,7 @@ This repository is for the Final Project of CSC413: Neural Networks and Deep Lea
 
 ### Dataset
 [FMA dataset](https://github.com/mdeff/fma): Dataset for Music Genre Classification
+
 [VCTK dataset](https://datashare.ed.ac.uk/handle/10283/3443): Dataset for Speaker Recognition
 
 ### Model Architecture
