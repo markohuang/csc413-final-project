@@ -1,4 +1,4 @@
-## A Comparison Between Music and Voice Recognition
+## Curious Case of Transfer Learning in Audio Domain
 This repository is for the Final Project of CSC413: Neural Networks and Deep Learning. We explore the effectiveness of transfer learning in the audio classification domain. By repurposing a music genre classification model for speaker recognition and vice versa, we show that transfer learning in the audio classification domain might not be as effective for image classification.
 
 ### Dataset
