@@ -7,10 +7,7 @@ This repository is for the Final Project of CSC413: Neural Networks and Deep Lea
 
 ### Model Architecture
 The pre-trained model ([Rawnet](https://github.com/Jungjee/RawNet) and [ConvNet](https://github.com/pushnyakov/WWWMusicalGenreRecognitionChallenge)) architecture are shown below.
-
-
-
-![image](https://user-images.githubusercontent.com/29292822/115158691-788f6c00-a05d-11eb-8dcc-8258d5c2deaa.png =800x)
+![image](https://user-images.githubusercontent.com/29292822/115159862-45e87200-a063-11eb-99e2-463aa055e612.png =800x)
 
 ### Code
 The following notebooks are used for training and evaluating the Music Genre Classification and Speaker Recognition Tasks
