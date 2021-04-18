@@ -16,8 +16,10 @@ The following notebooks are used for training and evaluating the Music Genre Cla
 2. ['ConvNet_vctk_keras.ipynb']: ConvNet model trained on VCTK dataset using Kares
 3. ['RawNet_fma.ipynb']: RawNet2 model trained on FMA dataset
 4. ['RawNet_vctk.ipynb']: RawNet2 model trained on VCTK dataset
+5. ['RawNet2.py']: RawNet2 architecture in Pytorch
 
 ['ConvNet_fma_pytorch.ipynb']: https://github.com/markohuang/csc413-final-project/blob/main/ConvNet_fma_pytorch.ipynb
 ['ConvNet_vctk_keras.ipynb']: https://github.com/markohuang/csc413-final-project/blob/main/ConvNet_vctk_keras.ipynb
 ['RawNet_fma.ipynb']: https://github.com/markohuang/csc413-final-project/blob/main/RawNet_fma.ipynb
 ['RawNet_vctk.ipynb']: https://github.com/markohuang/csc413-final-project/blob/main/RawNet_vctk.ipynb
+['RawNet2.py']: https://github.com/markohuang/csc413-final-project/blob/main/models/RawNet2.py
